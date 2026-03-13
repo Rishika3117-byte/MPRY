@@ -1,5 +1,8 @@
 # Offroad Semantic Scene Segmentation
 
+Github Link: "https://github.com/Rishika3117-byte/MPRY/tree/main"
+HuggingFace Link: "https://huggingface.co/rishika3117/Team_Web-Buddies_Segmentation_Model/tree/main"
+
 ### Import Paradox Hackathon – Duality AI
 
 ## Project Overview
@@ -105,7 +108,7 @@ pip install torch torchvision opencv-python matplotlib numpy
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/offroad-segmentation.git
+git clone https://github.com/Rishika3117-byte/MPRY/tree/main
 
 2. Install dependencies
 
@@ -284,6 +287,7 @@ Special thanks to the organizers for providing the dataset and challenge environ
 # License
 
 This project is intended for **educational and research purposes only**.
+
 
 
 
