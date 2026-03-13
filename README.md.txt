@@ -86,7 +86,23 @@ NumPy
 ```
 pip install torch torchvision opencv-python matplotlib numpy
 ```
+## How to Run
 
+1. Clone the repository
+
+git clone https://github.com/yourusername/offroad-segmentation.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run training
+
+python train.py
+
+4. Run inference
+
+python test.py
 ---
 
 # Training the Model
@@ -253,3 +269,4 @@ Special thanks to the organizers for providing the dataset and challenge environ
 # License
 
 This project is intended for **educational and research purposes only**.
+
