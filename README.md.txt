@@ -30,7 +30,7 @@ DeepLabV3 was selected due to its strong performance in **semantic segmentation 
 The trained model weights are available here:
 
 Hugging Face:
-https://huggingface.co/username/offroad-terrain-segmentation
+https://huggingface.co/rishika3117/Team_Web-Buddies_Segmentation_Model/tree/main
 
 Model size: 160 MB
 Architecture: DeepLabV3 + ResNet50
@@ -284,6 +284,7 @@ Special thanks to the organizers for providing the dataset and challenge environ
 # License
 
 This project is intended for **educational and research purposes only**.
+
 
 
 
