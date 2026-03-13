@@ -10,7 +10,12 @@ The goal is to train a deep learning model that can **identify and classify terr
 The model was trained using the provided dataset and evaluated on unseen images to measure its **generalization capability in new desert environments**.
 
 ---
+## Model Performance
 
+IoU Score: 0.9796
+Training Images: 1088
+Model: DeepLabV3 (ResNet50)
+---
 # Model Information
 
 **Model Architecture:** DeepLabV3
@@ -269,4 +274,5 @@ Special thanks to the organizers for providing the dataset and challenge environ
 # License
 
 This project is intended for **educational and research purposes only**.
+
 
