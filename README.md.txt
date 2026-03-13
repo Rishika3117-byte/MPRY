@@ -25,7 +25,17 @@ Model: DeepLabV3 (ResNet50)
 DeepLabV3 was selected due to its strong performance in **semantic segmentation tasks**, using atrous convolution to capture multi-scale contextual information.
 
 ---
+## Model Weights
 
+The trained model weights are available here:
+
+Hugging Face:
+https://huggingface.co/username/offroad-terrain-segmentation
+
+Model size: 160 MB
+Architecture: DeepLabV3 + ResNet50
+Framework: PyTorch
+---
 # Dataset
 
 The dataset consists of **synthetic desert environment images** generated from a digital twin platform.
@@ -274,5 +284,6 @@ Special thanks to the organizers for providing the dataset and challenge environ
 # License
 
 This project is intended for **educational and research purposes only**.
+
 
 
